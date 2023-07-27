@@ -1,0 +1,64 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: #ffd569;
+  height: 110vh;
+  margin: 60px;
+  padding-top: 100px;
+  background-size: cover;
+}
+.card-container {
+  background-color: #ffffff;
+  height: 95vh;
+  margin-top: 10px;
+  margin-right: 50px;
+  margin-left: 50px;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.value {
+  color: #ffd569;
+  font-size: 50px;
+  font-weight: bold;
+}
+.heading {
+  color: #000000;
+  font-size: 47px;
+  font-weight: bold;
+  font-family: 'Roboto';
+}
+.image-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 75px;
+}
+
+.mango-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.banana-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.img-size {
+  height: 37vh;
+  width: 36vw;
+}
+.btn-eat {
+  color: #ffffff;
+  background-color: #007bff;
+  border: transparent 0px solid;
+  padding: 10px;
+  border-radius: 10px;
+  font-size: 15px;
+  height: 5vh;
+  width: 10vw;
+  margin-top: 70px;
+}
